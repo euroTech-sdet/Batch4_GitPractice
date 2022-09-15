@@ -1,7 +1,7 @@
 package GitPractice.Config;
 
 public class ConfigSetup {
-// this file is a config file for all project users!!
+private static final int revisionValue= 1001;
 
 
 }
